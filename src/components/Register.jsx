@@ -1,5 +1,5 @@
 import React,{useState} from 'react'
-import Fruits from './fruits'
+import Fruits from '/Fruits.jsx'
 
 export default function Register() {
   const [fruits,setfruits]=useState([
