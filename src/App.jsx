@@ -11,7 +11,7 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import List from './List';
-import Input from './input';
+import Input from './Input';
 import DrawerAppBar from './Navbar';
 import Cards from './Cards';
 import Home from './components/Home';
