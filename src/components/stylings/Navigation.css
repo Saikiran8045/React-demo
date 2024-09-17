@@ -1,0 +1,15 @@
+.navbar a{
+      text-decoration: none;
+    
+      color: white;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      
+    
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: blue;
+    position: sticky;
+    top: 0px;
+}
